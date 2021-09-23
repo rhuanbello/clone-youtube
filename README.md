@@ -16,9 +16,9 @@ You can access it with this [link.](https://youtube-rhuanbello.vercel.app/)
 
 ## 💻 Demo
 
-![Untitled](YouTube%20Clone%202766cc8798f14f538464346b94a5bb2f/Untitled.png)
+![](https://i.imgur.com/mNqTTjm.png)
 
-![Untitled](YouTube%20Clone%202766cc8798f14f538464346b94a5bb2f/Untitled%201.png)
+![](https://i.imgur.com/SKs4udZ.png)
 
 You can access it with this [link.](https://youtube-rhuanbello.vercel.app/)
 
